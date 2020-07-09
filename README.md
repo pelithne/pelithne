@@ -23,4 +23,3 @@ I'm a Cloud Solution Architect at Microsoft. I work with anything [Azure](https:
 
 - Name: Peter Lithner 
 - Employer: [Microsoft](https://www.microsoft.com)
-- Website: [www.lithner.com](https://www.lithner.com)
