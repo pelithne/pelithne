@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pelithne/pelithne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## Hi, I'm Peter 👋
+
+I'm a Cloud Solution Architect at Microsoft. I work with anything [Azure](https://www.azure.com) but I spend most of my time with Kubernetes and applications in container environments. 
+
+## 🤓 Details
+
+- Name: Peter Lithner 
+- Employer: [Microsoft](https://www.microsoft.com)
+- Website: [www.lithner.com](https://www.lithner.com)
