@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Peter 👋
 
-I'm a Cloud Solution Architect at Microsoft. I work with anything [Azure](https://www.azure.com) but I spend most of my time with Kubernetes and applications in container environments. 
+I work as a Cloud Solution Architect at Microsoft. I work with anything [Azure](https://www.azure.com) but I spend most of my time with Kubernetes and applications in container environments. 
 
 ## 🤓 Details
 
